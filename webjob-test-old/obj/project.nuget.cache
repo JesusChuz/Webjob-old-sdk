@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "yVaCbxLxOwAJz9BELR5qcXRIpKTd8zKrmbBBCbZIjAH4JH9POxqvGyIN4smHLxsda9DC52OlH1JOalvQ/a0UFg==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\XPC\\Documents\\Trabajo\\repros\\webjob-test-old\\webjob-test-old\\webjob-test-old.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\XPC\\.nuget\\packages\\microsoft.azure.keyvault.core\\1.0.0\\microsoft.azure.keyvault.core.1.0.0.nupkg.sha512",
+    "C:\\Users\\XPC\\.nuget\\packages\\microsoft.azure.webjobs\\1.1.2\\microsoft.azure.webjobs.1.1.2.nupkg.sha512",
+    "C:\\Users\\XPC\\.nuget\\packages\\microsoft.azure.webjobs.core\\1.1.2\\microsoft.azure.webjobs.core.1.1.2.nupkg.sha512",
+    "C:\\Users\\XPC\\.nuget\\packages\\microsoft.data.edm\\5.8.4\\microsoft.data.edm.5.8.4.nupkg.sha512",
+    "C:\\Users\\XPC\\.nuget\\packages\\microsoft.data.odata\\5.8.4\\microsoft.data.odata.5.8.4.nupkg.sha512",
+    "C:\\Users\\XPC\\.nuget\\packages\\microsoft.data.services.client\\5.8.4\\microsoft.data.services.client.5.8.4.nupkg.sha512",
+    "C:\\Users\\XPC\\.nuget\\packages\\microsoft.windowsazure.configurationmanager\\3.2.1\\microsoft.windowsazure.configurationmanager.3.2.1.nupkg.sha512",
+    "C:\\Users\\XPC\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\XPC\\.nuget\\packages\\system.spatial\\5.8.4\\system.spatial.5.8.4.nupkg.sha512",
+    "C:\\Users\\XPC\\.nuget\\packages\\windowsazure.storage\\7.0.0\\windowsazure.storage.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

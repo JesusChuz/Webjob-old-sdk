@@ -1,0 +1,1 @@
+webjob-test-old.exe %*

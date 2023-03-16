@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="jesume-webapp-webjob" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\Users\\XPC\\Documents\\Trabajo\\repros\\webjob-test-old\\webjob-test-old\\obj\\Release\\net472\\win7-x86\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
